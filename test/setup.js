@@ -1,4 +1,4 @@
-// Setup Jest environment
+
 require('dotenv').config();
 
 beforeAll(() => {
