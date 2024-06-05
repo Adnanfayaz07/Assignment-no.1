@@ -15,7 +15,7 @@ app.use('/auth', authRoutes);
 app.use('/queue', queueRoutes);
 
 const PORT = process.env.PORT || 3000;
-
+console.log('trying to connect mongodb')
 mongoose.connect(process.env.MONGO_URI)
     .then(() => {
         console.log('Connected to MongoDB');
