@@ -11,4 +11,6 @@ This project implements a backend system that efficiently manages requests from 
 - Scalability
 - Robustness
 - Logging and Monitoring
--
+
+- THE DOCKER REPOSITORY LINK
+- https://hub.docker.com/repository/docker/adnanfayaz07/assignment-no.1/general
